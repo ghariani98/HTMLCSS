@@ -1,0 +1,9 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url("./fond.png");
+    }
+.logo{
+    margin-left: 600px;
+    display:block;
+    margin-top: 230px;
+}
